@@ -1,0 +1,509 @@
+{
+    "event": [
+        "event taking medicine",
+        "event conference",
+        "event dinner",
+        "event lab appointment",
+        "event yoga activity",
+        "event tennis activity",
+        "event doctor appointment",
+        "event meeting",
+        "event swimming activity",
+        "event optometrist appointment",
+        "event football activity",
+        "event dentist appointment",
+        "event lab",
+        "event doctor",
+        "event optometrist",
+        "event dentist"
+    ],
+    "time": [
+        "1pm",
+        "2pm",
+        "3pm",
+        "4pm",
+        "5pm",
+        "6pm",
+        "8pm",
+        "9am",
+        "10am",
+        "11am",
+        "7pm"
+    ],
+    "date": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday",
+        "1st",
+        "2nd",
+        "3rd",
+        "4th",
+        "5th",
+        "6th",
+        "7th",
+        "8th",
+        "9th",
+        "10th",
+        "11th",
+        "12th",
+        "13th",
+        "14th",
+        "15th",
+        "16th",
+        "17th",
+        "18th",
+        "19th",
+        "20th",
+        "the_1st",
+        "the_2nd",
+        "the_3rd",
+        "the_4th",
+        "the_5th",
+        "the_6th",
+        "the_7th",
+        "the_8th",
+        "the_9th",
+        "the_10th",
+        "the_11th",
+        "the_12th",
+        "the_13th",
+        "the_14th",
+        "the_15th",
+        "the_16th",
+        "the_17th",
+        "the_18th",
+        "the_19th",
+        "the_20th"
+    ],
+    "party": [
+        "party sales team",
+        "party HR",
+        "party executive team",
+        "party infrastructure team",
+        "party vice president",
+        "party boss",
+        "party management",
+        "party Tom",
+        "party Jon",
+        "party Martha",
+        "party brother",
+        "party mother",
+        "party aunt",
+        "party father",
+        "party sister",
+        "party Marie",
+        "party Alex",
+        "party Jeff",
+        "party Ana"
+    ],
+    "room": [
+        "conference room 100",
+        "conference room 102",
+        "conference room 50"
+    ],
+    "agenda": [
+        "go over budget",
+        "discuss the merger",
+        "discuss the company picnic",
+        "go over quarterly report",
+        "onboard new members",
+        "discuss dress code",
+        "sign the NDA"
+    ],
+    "location": [
+        "location oakland",
+        "location san mateo",
+        "location san jose",
+        "location grand rapids",
+        "location boston",
+        "location new york",
+        "location cleveland",
+        "location downtown chicago",
+        "location seattle",
+        "location los angeles",
+        "location san francisco",
+        "location redwood city",
+        "location menlo park",
+        "location exeter",
+        "location mountain view",
+        "location compton",
+        "location inglewood",
+        "location durham",
+        "location manhattan",
+        "location fresno",
+        "location alameda",
+        "location alhambra",
+        "location atherton",
+        "location brentwood",
+        "location camarillo",
+        "location carson",
+        "location corona",
+        "location danville"
+    ],
+    "weekly_time": [
+        "today",
+        "tomorrow",
+        "week",
+        "weekend",
+        "next few days",
+        "two day",
+        "next week"
+    ],
+    "temperature": [
+        "20f",
+        "30f",
+        "40f",
+        "50f",
+        "60f",
+        "70f",
+        "80f",
+        "90f",
+        "100f"
+    ],
+    "weather_attribute": [
+        "lowest temperature",
+        "highest temperature",
+        "overcast",
+        "snow",
+        "stormy",
+        "hail",
+        "hot",
+        "rain",
+        "cold",
+        "clear skies",
+        "cloudy",
+        "warm",
+        "windy",
+        "foggy",
+        "humid",
+        "frost",
+        "blizzard",
+        "drizzle",
+        "dry",
+        "dew",
+        "misty"
+    ],
+    "traffic_info": [
+        "no traffic",
+        "moderate traffic",
+        "heavy traffic",
+        "road block nearby",
+        "car collision nearby"
+    ],
+    "poi_type": [
+        "friends house",
+        "home",
+        "coffee or tea place",
+        "chinese restaurant",
+        "pizza restaurant",
+        "grocery store",
+        "rest stop",
+        "shopping center",
+        "parking garage",
+        "gas station",
+        "hospital",
+        "certain address"
+    ],
+    "poi": [
+        {
+            "address": "address 593 Arrowhead Way",
+            "poi": "poi Chef_Chu_s",
+            "type": "chinese restaurant"
+        },
+        {
+            "address": "address 394 Van Ness Ave",
+            "poi": "poi Coupa",
+            "type": "coffee or tea place"
+        },
+        {
+            "address": "address 408 University Ave",
+            "poi": "poi Trader Joes",
+            "type": "grocery store"
+        },
+        {
+            "address": "address 113 Anton Ct",
+            "poi": "poi Round Table",
+            "type": "pizza restaurant"
+        },
+        {
+            "address": "address 1313 Chester Ave",
+            "poi": "poi Hacienda Market",
+            "type": "grocery store"
+        },
+        {
+            "address": "address 465 Arcadia Pl",
+            "poi": "poi Four Seasons",
+            "type": "rest stop"
+        },
+        {
+            "address": "address 830 Almanor Ln",
+            "poi": "poi tai pan",
+            "type": "chinese restaurant"
+        },
+        {
+            "address": "address 773 Alger Dr",
+            "poi": "poi Stanford Shopping Center",
+            "type": "shopping center"
+        },
+        {
+            "address": "address 53 University Av",
+            "poi": "poi Shell",
+            "type": "gas station"
+        },
+        {
+            "address": "address 657 Ames Ave",
+            "poi": "poi The Clement Hotel",
+            "type": "rest stop"
+        },
+        {
+            "address": "address 792 Bedoin Street",
+            "poi": "poi Starbucks",
+            "type": "coffee or tea place"
+        },
+        {
+            "address": "address 329 El Camino Real",
+            "poi": "poi The Westin",
+            "type": "rest stop"
+        },
+        {
+            "address": "address 383 University Ave",
+            "poi": "poi Town and Country",
+            "type": "shopping center"
+        },
+        {
+            "address": "address 452 Arcadia Pl",
+            "poi": "poi Safeway",
+            "type": "grocery store"
+        },
+        {
+            "address": "address 171 Oak Rd",
+            "poi": "poi Topanga Mall",
+            "type": "shopping center"
+        },
+        {
+            "address": "address 842 Arrowhead Way",
+            "poi": "poi Panda Express",
+            "type": "chinese restaurant"
+        },
+        {
+            "address": "address 704 El Camino Real",
+            "poi": "poi Pizza Hut",
+            "type": "pizza restaurant"
+        },
+        {
+            "address": "address 899 Ames Ct",
+            "poi": "poi Stanford Childrens Health",
+            "type": "hospital"
+        },
+        {
+            "address": "address 5677 southwest 4th street",
+            "poi": "poi 5677 southwest 4th street",
+            "type": "certain address"
+        },
+        {
+            "address": "address 5672 barringer street",
+            "poi": "poi 5672 barringer street",
+            "type": "certain address"
+        },
+        {
+            "address": "address 214 El Camino Real",
+            "poi": "poi Stanford Express Care",
+            "type": "hospital"
+        },
+        {
+            "address": "address 638 Amherst St",
+            "poi": "poi Sigona Farmers Market",
+            "type": "grocery store"
+        },
+        {
+            "address": "address 611 Ames Ave",
+            "poi": "poi Palo Alto Medical Foundation",
+            "type": "hospital"
+        },
+        {
+            "address": "address 434 Arastradero Rd",
+            "poi": "poi Ravenswood Shopping Center",
+            "type": "shopping center"
+        },
+        {
+            "address": "address 338 Alester Ave",
+            "poi": "poi Midtown Shopping Center",
+            "type": "shopping center"
+        },
+        {
+            "address": "address 271 Springer Street",
+            "poi": "poi Mandarin Roots",
+            "type": "chinese restaurant"
+        },
+        {
+            "address": "address 753 University Ave",
+            "poi": "poi Comfort Inn",
+            "type": "rest stop"
+        },
+        {
+            "address": "address 669 El Camino Real",
+            "poi": "poi p_._f_._changs",
+            "type": "chinese restaurant"
+        },
+        {
+            "address": "address 915 Arbol Dr",
+            "poi": "poi Pizza Chicago",
+            "type": "pizza restaurant"
+        },
+        {
+            "address": "address 333 Arbol Dr",
+            "poi": "poi Travelers Lodge",
+            "type": "rest stop"
+        },
+        {
+            "address": "address 436 Alger Dr",
+            "poi": "poi Palo Alto Cafe",
+            "type": "coffee or tea place"
+        },
+        {
+            "address": "address 5677 springer street",
+            "poi": "poi 5677 springer street",
+            "type": "certain address"
+        },
+        {
+            "address": "address 113 Arbol Dr",
+            "poi": "poi Jing Jing",
+            "type": "chinese restaurant"
+        },
+        {
+            "address": "address 409 Bollard St",
+            "poi": "poi Willows Market",
+            "type": "grocery store"
+        },
+        {
+            "address": "address 776 Arastradero Rd",
+            "poi": "poi Dominos",
+            "type": "pizza restaurant"
+        },
+        {
+            "address": "address 269 Alger Dr",
+            "poi": "poi Cafe Venetia",
+            "type": "coffee or tea place"
+        },
+        {
+            "address": "address 110 Arastradero Rd",
+            "poi": "poi Papa Johns",
+            "type": "pizza restaurant"
+        },
+        {
+            "address": "address 550 Alester Ave",
+            "poi": "poi Dish Parking",
+            "type": "parking garage"
+        },
+        {
+            "address": "address 578 Arbol Dr",
+            "poi": "poi Hotel Keen",
+            "type": "rest stop"
+        },
+        {
+            "address": "address 9981 Archuleta Ave",
+            "poi": "poi Peets Coffee",
+            "type": "coffee or tea place"
+        },
+        {
+            "address": "address 200 Alester Ave",
+            "poi": "poi Valero",
+            "type": "gas station"
+        },
+        {
+            "address": "address 819 Alma St",
+            "poi": "poi Whole Foods",
+            "type": "grocery store"
+        },
+        {
+            "address": "address 91 El Camino Real",
+            "poi": "poi 76",
+            "type": "gas station"
+        },
+        {
+            "address": "address 583 Alester Ave",
+            "poi": "poi Philz",
+            "type": "coffee or tea place"
+        },
+        {
+            "address": "address 270 Altaire Walk",
+            "poi": "poi Civic Center Garage",
+            "type": "parking garage"
+        },
+        {
+            "address": "address 610 Amarillo Ave",
+            "poi": "poi Stanford Oval Parking",
+            "type": "parking garage"
+        },
+        {
+            "address": "address 347 Alta Mesa Ave",
+            "poi": "poi jills house",
+            "type": "friends house"
+        },
+        {
+            "address": "address 880 Ames Ct",
+            "poi": "poi Webster Garage",
+            "type": "parking garage"
+        },
+        {
+            "address": "address 864 Almanor Ln",
+            "poi": "poi jacks house",
+            "type": "friends house"
+        },
+        {
+            "address": "address 56 cadwell street",
+            "poi": "poi home_2",
+            "type": "home"
+        },
+        {
+            "address": "address 5671 barringer street",
+            "poi": "poi home_3",
+            "type": "home"
+        },
+        {
+            "address": "address 528 Anton Ct",
+            "poi": "poi Pizza My Heart",
+            "type": "pizza restaurant"
+        },
+        {
+            "address": "address 10 ames street",
+            "poi": "poi home_1",
+            "type": "home"
+        },
+        {
+            "address": "address 580 Van Ness Ave",
+            "poi": "poi toms house",
+            "type": "friends house"
+        },
+        {
+            "address": "address 481 Amaranta Ave",
+            "poi": "poi Palo Alto Garage R",
+            "type": "parking garage"
+        },
+        {
+            "address": "address 783 Arcadia Pl",
+            "poi": "poi Chevron",
+            "type": "gas station"
+        },
+        {
+            "address": "address 145 Amherst St",
+            "poi": "poi Teavana",
+            "type": "coffee or tea place"
+        }
+    ],
+    "distance": [
+        "1_miles",
+        "2_miles",
+        "3_miles",
+        "4_miles",
+        "5_miles",
+        "6_miles",
+        "7_miles",
+        "8_miles",
+        "9_miles"
+    ]
+}
